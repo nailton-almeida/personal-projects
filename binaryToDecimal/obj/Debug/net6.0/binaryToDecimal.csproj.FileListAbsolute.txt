@@ -1,0 +1,15 @@
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.exe
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.deps.json
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.runtimeconfig.json
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.dll
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\bin\Debug\net6.0\binaryToDecimal.pdb
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.csproj.AssemblyReference.cache
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.AssemblyInfoInputs.cache
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.AssemblyInfo.cs
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.csproj.CoreCompileInputs.cache
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.dll
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\refint\binaryToDecimal.dll
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.pdb
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\binaryToDecimal.genruntimeconfig.cache
+F:\Minhas_Coisas\Estudos\ProjetosPessoais\BackEnd\binaryToDecimal\binaryToDecimal\obj\Debug\net6.0\ref\binaryToDecimal.dll
